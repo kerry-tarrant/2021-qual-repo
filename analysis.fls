@@ -2,10 +2,19 @@ PWD c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo
 INPUT C:\Users\Lenovo Device\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.tex
 OUTPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.log
+<<<<<<< HEAD
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+=======
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk10.clo
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk10.clo
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.sty
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.sty
+>>>>>>> analysis-adding-notes
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
@@ -217,10 +226,17 @@ INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
 INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
 INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
 INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
+<<<<<<< HEAD
 INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
 INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
 OUTPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
 OUTPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.pdf
+=======
+OUTPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.pdf
+INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
+INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
+OUTPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
+>>>>>>> analysis-adding-notes
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
@@ -250,12 +266,57 @@ INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy8.tfm
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy6.tfm
 INPUT C:\Users\Lenovo Device\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+<<<<<<< HEAD
 INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.aux
 INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
 INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
+=======
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsl10.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.toc
+INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.toc
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy10.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy7.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy5.tfm
+OUTPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.toc
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.aux
+INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
+INPUT c:\Users\Lenovo Device\Desktop\Qual\2021-qual-repo\analysis.out
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+>>>>>>> analysis-adding-notes
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
+<<<<<<< HEAD
+=======
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsl10.pfb
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsl10.pfb
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Users\Lenovo Device\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+>>>>>>> analysis-adding-notes

@@ -1,13 +1,27 @@
 # Fdb version 3
+<<<<<<< HEAD
 ["pdflatex"] 1610499766 "c:/Users/Lenovo Device/Desktop/Qual/2021-qual-repo/analysis.tex" "c:/Users/Lenovo Device/Desktop/Qual/2021-qual-repo/analysis.pdf" "analysis" 1610499768
+=======
+["pdflatex"] 1610422757 "c:/Users/Lenovo Device/Desktop/Qual/2021-qual-repo/analysis.tex" "c:/Users/Lenovo Device/Desktop/Qual/2021-qual-repo/analysis.pdf" "analysis" 1610422759
+>>>>>>> analysis-adding-notes
   "C:/Users/Lenovo Device/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1599364953 10056127 5765e4ba6e17eb3b81e2381dcf2f1f4f ""
   "C:/Users/Lenovo Device/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1603122777 125800 7d3b25bb2b88cfc39185003e89703de6 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
+<<<<<<< HEAD
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
+=======
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233951854 924 9904cf1d39e9767e7a3622f2a125a565 ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1233951854 940 75ac932a52f80982a9f8ea75d03a34cf ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
+>>>>>>> analysis-adding-notes
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -16,15 +30,36 @@
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+<<<<<<< HEAD
+=======
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsl10.tfm" 1136765053 1508 efecb4a315fe0975509670a272d75ef5 ""
+>>>>>>> analysis-adding-notes
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/latex-fonts/lasy10.tfm" 1136765053 520 82a3d37183f34b6eb363a161dfc002c2 ""
+<<<<<<< HEAD
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/latex-fonts/lasy6.tfm" 1136765053 520 4889cce2180234b97cad636b6039c722 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/latex-fonts/lasy8.tfm" 1136765053 520 7bb3abb160b19e0ed6ac404bb59052b7 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247593067 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247593067 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247593066 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
+=======
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/latex-fonts/lasy5.tfm" 1136765053 520 d082ac03a1087bc1ec2a06e24a9f68c0 ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/latex-fonts/lasy6.tfm" 1136765053 520 4889cce2180234b97cad636b6039c722 ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/latex-fonts/lasy7.tfm" 1136765053 520 a74c6ed8cb48679fdc3ea874d9d34a7e ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/latex-fonts/lasy8.tfm" 1136765053 520 7bb3abb160b19e0ed6ac404bb59052b7 ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247593066 34811 78b52f49e893bcba91bd7581cdc144c0 ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247593066 32080 340ef9bf63678554ee606688e7b5339d ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247593067 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247593067 36281 c355509802a035cadc5f15869451dcee ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247593067 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247593067 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247593066 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb" 1247593066 35022 e40946b20bfdcd1099eafb2bcd9f25dd ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247593067 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247593073 34694 870c211f62cb72718a00e353f14f254d ""
+>>>>>>> analysis-adding-notes
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
@@ -109,10 +144,17 @@
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amstext.sty" 1580746580 2508 8ff93b1137020e8f21930562a874ae66 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/atveryend/atveryend.sty" 1576101110 19336 ce7ae9438967282886b3b036cfad1e4d ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/auxhook/auxhook.sty" 1576538732 3935 57aa3c3e203a5c2effb4d2bd2efbc323 ""
+<<<<<<< HEAD
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls" 1582871666 20023 e427dd9e17e239bf926ef3aab67fe35e ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ifthen.sty" 1582871666 5159 892429808d9e0e2b3548aaefd9a06ed0 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/latexsym.sty" 1582871666 2854 12555a1cadee722c56d2816ab5a895f5 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo" 1582871666 8446 9874cccac5fee462272c582807dbbf56 ""
+=======
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/bk10.clo" 1582871666 8286 94a4316308950c5d5a69b423dbd190ac ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/book.cls" 1582871666 23147 87043b6c3ff70b5e5185aee55d462dd7 ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ifthen.sty" 1582871666 5159 892429808d9e0e2b3548aaefd9a06ed0 ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/latexsym.sty" 1582871666 2854 12555a1cadee722c56d2816ab5a895f5 ""
+>>>>>>> analysis-adding-notes
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ulasy.fd" 1582871666 2234 46373e8269e9960c9a311c7c046a0877 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/comment/comment.sty" 1468687682 10197 204f75d5d8d88aa345a8c402e879e63b ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/enumitem/enumitem.sty" 1561036220 51697 f8f08183cd2080d9d18a41432d651dfb ""
@@ -147,6 +189,7 @@
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/relsize/relsize.sty" 1365240430 15542 c4cc3164fe24f2f2fbb06eb71b1da4c4 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575571282 9715 b051d5b493d9fe5f4bc251462d039e5f ""
+<<<<<<< HEAD
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/xspace.sty" 1580644886 4546 3e6071704acf4f66392376b7b66ae02c ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty" 1463131981 57049 34128738f682d033422ca125f82e5d62 ""
@@ -162,3 +205,23 @@
   "c:/Users/Lenovo Device/Desktop/Qual/2021-qual-repo/analysis.log"
   "analysis.out"
   "analysis.aux"
+=======
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/indentfirst.sty" 1580644886 1619 d4cd7231755dd1dfa89af8ceddfb0e4d ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/xspace.sty" 1580644886 4546 3e6071704acf4f66392376b7b66ae02c ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
+  "C:/Users/Lenovo Device/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty" 1463131981 57049 34128738f682d033422ca125f82e5d62 ""
+  "analysis.aux" 1610422759 1038 666df4a4e380b75c9ab1a81167de33b5 "pdflatex"
+  "analysis.out" 1610422759 108 2a8f40ad66c081feed1ea64c4400a48d "pdflatex"
+  "analysis.tex" 1610422748 1020 df1240f66dcbc91e5072ad553d5866e0 ""
+  "analysis.toc" 1610422759 143 8466ee29610305b7c581071b0f24fbe9 "pdflatex"
+  "c:/Users/Lenovo Device/Desktop/Qual/2021-qual-repo/analysis.aux" 1610422759 1038 666df4a4e380b75c9ab1a81167de33b5 ""
+  "c:/Users/Lenovo Device/Desktop/Qual/2021-qual-repo/analysis.tex" 1610422748 1020 df1240f66dcbc91e5072ad553d5866e0 ""
+  (generated)
+  "analysis.log"
+  "analysis.toc"
+  "analysis.aux"
+  "c:/Users/Lenovo Device/Desktop/Qual/2021-qual-repo/analysis.pdf"
+  "analysis.out"
+  "c:/Users/Lenovo Device/Desktop/Qual/2021-qual-repo/analysis.log"
+  "analysis.pdf"
+>>>>>>> analysis-adding-notes
