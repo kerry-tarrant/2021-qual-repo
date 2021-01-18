@@ -7,20 +7,39 @@
 \usepackage{comment}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,quotes}
-\usepackage{hyperref}
 
 \usepackage{algorithmic}
 \usepackage{algorithm2e}
-
-\newtheorem{theorem}{Theorem}
 
 \newcommand{\latex}{\LaTeX\xspace}
 
 \renewcommand{\arraystretch}{1.5}
 
+% More math packages
 \usepackage[]{amsthm}
 \usepackage[]{amssymb}
 \usepackage{enumitem}
+
+% Symbols and stuff
+\newcommand{\CC}{\mathbb C}
+\newcommand{\FF}{\mathbb F}
+\newcommand{\NN}{\mathbb N}
+\newcommand{\QQ}{\mathbb Q}
+\newcommand{\RR}{\mathbb R}
+\newcommand{\ZZ}{\mathbb Z}
+\newcommand{\OO}{\mathcal{O}}
+\renewcommand{\o}{\mathscr{O}}
+\newcommand{\BB}{\mathcal{B}}
+
+% Statements
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+
+\usepackage{hyperref}
 
 \title{Analysis Notes}
 \author{Kerry Tarrant}
@@ -34,12 +53,63 @@
 \chapter{Measure Theory}
 
 \section{Preliminaries}
-Note: Understand the analogy between measuring "volume" and the concept of this section.
+\textit{Note}: Understand the analogy between measuring "volume" and the concept of this section.
 
-Note: Every open set in $\mathbb{R}$ is a countable union of disjoint open intervals. Every open set in $\mathbb{R}^{d}$, $d\geq 2$, is almost the disjoint union of closed cubes. Almost means that only the boundaries of the cubes can overlap.
-
-
-\textbf{Point}
+\textit{Note}: Every open set in $\mathbb{R}$ is a countable union of disjoint open intervals. Every open set in $\mathbb{R}^{d}$, $d\geq 2$, is almost the disjoint union of closed cubes. Almost means that only the boundaries of the cubes can overlap.
 
 
+A \textbf{point} $x\in \RR^{d}$ consists of a $d$-tuple of real numbers
+\begin{center}
+$x=(x_1,x_2,\cdots,x_d), \hspace*{15pt} x_i\in \RR,$ for $i=1,\cdots,d$.
+\end{center}
+
+The \textbf{norm} of $x$ is denoted by $|x|$ and is defined to be the standard Euclidean norm given by
+\begin{center}
+    $|x|=(x_1^2+\cdots+x_d^2)^{1/2}$.
+\end{center}
+
+The \textbf{distance between two points} $x$ and $y$ is then simply $|x-y|$.
+
+The \textbf{complement} of a set $E$ in $\RR^d$ is denoted by $E^c$ and defined by
+\begin{center}
+    $E^c=\{x\in\RR^d:x\notin E\}$.
+\end{center}
+
+The \textbf{distance between two sets} $E$ and $F$ is defined by
+\begin{center}
+    $d(E,F)=\inf |x-y|$,
+\end{center}
+
+where the infimum is taken over all $x\in e$ and $y\in F$.
+
+The \textbf{open ball} in $\RR^d$ centered at $x$ and of radius $r$ is defined by
+\begin{center}
+    $B_r(x)=\{y\in\RR^d:|y-x|<r$.
+\end{center}
+
+A subset $E\subset\RR^d$ is \textbf{open} if for every $x\in E$ there exists $r>0$ with $B_r(x)\subset E$. A set is \textbf{closed} if its complement is open.
+
+A point $x\in\RR^d$ is a \textbf{limit point} of the set $E$ if for every $r>0$, the ball $B_r(x)$ contains points of $E$.
+
+An \textbf{isolated point} of $E$ is a point $x\in E$ such that there exists an $r>0$ where $B_r(x)\cap E$ is equal to $\{x\}$.
+
+A closed set $E$ is \textbf{perfect} if $E$ does not have any isolated points.
+
+A (closed) \textbf{rectangle} $R$ in $\RR^d$ is given by the product of $d$ one-dimensional closed and bounded intervals
+\begin{center}
+    $R=[a_1,b_1]\times [a_2,b_2]\times\cdots\times[a_d,b_d]$,
+\end{center}
+where $a_j\leq b_j$ are real numbers, $j=1,2,\dots,d$.
+
+The \textbf{volume} of the rectangle $R$ is denoted by $|R|$, and is defined to be
+\begin{center}
+    $|R|=(b_1-a_1)\cdots(b_d-a_d)$.
+\end{center}
+A union of rectangles is said to be \textbf{almost disjoint} if the interiors are disjoint.
+\begin{lemma}
+    If a rectangle is the almost disjoint union of finitely many other rectangles, say $R=\cup_{k=1}^N R_k$, then
+    \begin{center}
+        $|R|=\sum_{k=1}^{N} |R_k|$.
+    \end{center}
+\end{lemma}
 \end{document}
