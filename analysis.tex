@@ -191,5 +191,34 @@ Properties of the exterior measure:
 
 % page 16
 \section{Measurable Sets and the Lebesgue Measure}
+A subset $E$ of $\RR^d$ is \textbf{Lebesgue measurable}, or simply \textbf{measurable}, if for any $\epsilon>0$ there exists an open set $\OO$ with $E\subset\OO$ and 
+\begin{center}
+    $m_*(\OO-E)\leq\epsilon$.
+\end{center}
+If $E$ is measurable, we define its \textbf{Lebesgue measure} (or \textbf{measure}) $m(E)$ by 
+\begin{center}
+    $m(E)=m_*(E)$.
+\end{center}
 
+Properties of Lebesgue measure:
+\begin{enumerate}
+    \item[]
+    Property 1:
+    Every open set in $\RR^d$ is measurable.
+    \item[]
+    Property 2:
+    If $m_*(E)=0$, then $E$ is measurable. In particular, if $F$ is a subset of a exterior measure $0$, then $F$ is measurable.
+    \item[]
+    Property 3:
+    A countable union of measurable sets is measurable.
+    \item[]
+    Property 4:
+    Closed sets are measurable.
+    \item[]
+    Property 5:
+    The complement of a measurable set is measurable.
+    \item[]
+    Property 6:
+    A countable intersection of measurable sets is measurable.
+\end{enumerate}
 \end{document}
