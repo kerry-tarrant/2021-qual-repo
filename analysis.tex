@@ -162,5 +162,34 @@ The Cantor set a length of zero.
 
 $C_k$ is a disjoint union of $2^k$ intervals of length $3^{-k}$, making the total length of $C_k$ equal to $(2/3)^k$.
 
+% page 10
 \section{The Exterior Measure}
+If $E$ is \textit{any} subset of $\RR^d$, the exterior measure of $E$ is 
+\begin{center}
+    $m_*(E)=\inf\sum_{j=1}^\infty |Q_j|$,
+\end{center}
+where the infimum is taken over all countable coverings $E\subset\cup_{j=1}^\infty Q_j$ by closed cubes.
+
+Properties of the exterior measure:
+\begin{enumerate}
+    \item[]Observation 1 (\textbf{Monotonicity}):
+    If $E_1\subset E_2$, then $m_*(E_1)\leq m_*(E_2)$.
+    \item[]Observation 2 
+    (\textbf{Countable sub-additivity}): 
+    
+    If $E=\cup_{j=1}^{\infty}E_j$, then $m_*(E)\leq\sum_{j=1}^{\infty}m_*(E_j)$.
+    \item[]Observation 3
+    If $E\subset\RR^d$, then $m_*(E)=\inf m_*(\OO)$, where the infimum is taken over all open sets $\OO$ containing $E$.
+    \item[]Observation 4
+    If $E=E_1\cup E_2$, and $d(E_1,E_2)>0$, then $m_*(E)=m_*(E_1)+m_*(E_2)$.
+    \item[]Observation 5
+    If a set $E$ is the countable union of almost disjoint cubes $E=\cup_{j=1}^\infty Q_j$, then
+    \begin{center}
+        $m_*(E)=\sum_{j=1}^\infty |Q_j|$.
+    \end{center}
+\end{enumerate}
+
+% page 16
+\section{Measurable Sets and the Lebesgue Measure}
+
 \end{document}
